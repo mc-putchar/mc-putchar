@@ -1,5 +1,6 @@
 # 💫 About Me:
-42 Berlin student<br>Hacking through time all the time 50% of the time
+42 Berlin student<br>Hacking through time all the time 50% of the time<br>
+[![mcutura's 42 stats](https://badge42.vercel.app/api/v2/clid2v9tm003508mflprdwrvi/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
 
 ## 🌐 Socials:
