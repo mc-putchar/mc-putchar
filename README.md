@@ -1,5 +1,5 @@
 # 💫 About Me:
-42 Berlin student<br>Hacking through time all the time 50% of the time<br>
+42 Berlin student<br>Hacking through time all the time 50% of the time<br>Warning: Clock skew detected<br>
 [![mcutura's 42 stats](https://badge42.vercel.app/api/v2/clid2v9tm003508mflprdwrvi/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
 
@@ -16,7 +16,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mc-putchar&icon=0&color=9)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## :coffee: Fueled by:
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mcputchar) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mcputchar) 
 
   
